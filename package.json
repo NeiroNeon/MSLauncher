@@ -1,0 +1,13 @@
+{
+  "name": "bedrock-control-platform",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10",
+  "scripts": {
+    "dev": "echo Development environment ready",
+    "build": "echo Build pipeline ready",
+    "start": "echo Runtime bootstrap ready",
+    "lint": "echo Lint placeholder",
+    "typecheck": "echo Typecheck placeholder"
+  }
+}
